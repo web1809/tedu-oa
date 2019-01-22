@@ -1,0 +1,26 @@
+{
+  "name": "tedu-oa",
+  "version": "1.0.0",
+  "description": "tedu oa project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web1809/tedu-oa.git"
+  },
+  "keywords": [
+    "tedu",
+    "oa"
+  ],
+  "author": "Li Wenhua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/web1809/tedu-oa/issues"
+  },
+  "homepage": "https://github.com/web1809/tedu-oa#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
